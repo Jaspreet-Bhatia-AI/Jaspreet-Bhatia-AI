@@ -28,6 +28,7 @@ I believe the best software is built through collaboration and continuous learni
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Jaspreet-Bhatia-AI&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+- 🔧 [**6weeks_Jaspreet_SERN_backend**](https://github.com/KaranManhas22/6weeks_Jaspreet_SERN_backend) - Foodzie Backend
+- - 🔧 [**6weeks_Jaspreet_SERN**](https://github.com/KaranManhas22/6weeks_Jaspreet_SERN) - Foodzie Frontend
 ---
 [![](https://komarev.com/ghpvc/?username=Jaspreet-Bhatia-AI&icon=0&color=0)](https://visitcount.itsvg.in)
