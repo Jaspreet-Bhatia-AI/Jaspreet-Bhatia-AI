@@ -187,8 +187,6 @@ For me, technology isn’t just about writing code—it’s about finding the mo
 
 ## 🔥 Contribution Activity
 
-<br />
-
 ### 🔝 Top Contributed External Repositories
 - 🔧 [**6weeks_Jaspreet_SERN_backend**](https://github.com/KaranManhas22/6weeks_Jaspreet_SERN_backend) - Foodzie Backend Architecture
 - 🔧 [**6weeks_Jaspreet_SERN**](https://github.com/KaranManhas22/6weeks_Jaspreet_SERN) - Foodzie Frontend UI
