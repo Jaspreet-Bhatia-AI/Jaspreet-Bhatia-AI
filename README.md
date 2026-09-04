@@ -112,15 +112,17 @@ For me, technology isn’t just about writing code—it’s about finding the mo
 ## 💼 Experience
 
 **AI & Machine Learning Trainee** | O7 Services IT Company
+
 *Focused on advanced data-driven architectures*
 * Completed intensive hands-on training in Python, Data Science, Machine Learning, and Generative AI.
 * Developed expertise in architecting autonomous models, RAG pipelines, and agentic frameworks.
 * `Python` `Data Science` `Machine Learning` `Generative AI`
 
 **Cloud Computing Trainee** | O7 Services IT Company
+
 *Focused on infrastructure, web servers, and secure cloud deployments*
 * Mastered end-to-end cloud deployment pipelines for diverse application tech stacks.
-* Configured and secured production Linux environments using NGINX, Apache2 (`sites-enabled`), SSL certificates, and robust firewall policies.
+* Configured and secured production Linux environments using NGINX, Apache2, SSL certificates, and robust firewall policies.
 * Independently deployed the scalable Foodzie platform as a comprehensive cloud infrastructure and traffic management case study.
 * `Linux` `NGINX` `Apache2` `SSL/TLS` `Cloud Engineering`
 
