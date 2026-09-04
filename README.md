@@ -6,7 +6,7 @@
   <br />
 
   <img src="https://img.shields.io/badge/B.Tech-CSE_(AI/ML)_@_SBBSU-4B0082?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Degree" />
-  <img src="https://img.shields.io/badge/Location-Global-5A189A?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-India-5A189A?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
   
   <br /><br />
 
