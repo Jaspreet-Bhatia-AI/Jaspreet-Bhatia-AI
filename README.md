@@ -23,7 +23,7 @@
 
 <br />
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ## 👨‍💻 About Me
 
@@ -36,7 +36,7 @@ For me, technology isn’t just about writing code—it’s about finding the mo
 
 **Open To:** Collaborating on new technologies, connecting with peers and mentors, and building solutions that make a tangible impact.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ## 🛠 Tech Stack
 
@@ -56,7 +56,7 @@ For me, technology isn’t just about writing code—it’s about finding the mo
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ## 🧠 AI / ML Expertise
 
@@ -67,7 +67,7 @@ For me, technology isn’t just about writing code—it’s about finding the mo
 | **Data Science & Analytics** | Advanced | Pandas, NumPy, SciPy, Matplotlib, Plotly, Jupyter |
 | **MLOps & Tracking** | Intermediate | MLflow, Model Deployment, Streamlit |
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ## 🚀 Featured Projects
 
@@ -107,29 +107,34 @@ For me, technology isn’t just about writing code—it’s about finding the mo
   *Engineered predictive models using Deep Learning to forecast incident impact. Built an interactive Streamlit dashboard for real-time monitoring and resource allocation during critical situations.*
 </details>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ## 💼 Experience
 
-**Full-Stack AI Developer & Cloud Engineer** | Self-Employed / Independent
-*2022 – Present*
-* Architecting and deploying end-to-end full-stack solutions with integrated artificial intelligence features.
-* Implementing robust cloud infrastructures on AWS and Azure to support high-availability applications.
-* Exploring the intersection of data-driven AI and modern web architectures through rigorous project execution.
-* `Python` `Node.js` `TensorFlow` `AWS` `PostgreSQL`
+**AI & Machine Learning Trainee** | O7 Services IT Company
+*Focused on advanced data-driven architectures*
+* Completed intensive hands-on training in Python, Data Science, Machine Learning, and Generative AI.
+* Developed expertise in architecting autonomous models, RAG pipelines, and agentic frameworks.
+* `Python` `Data Science` `Machine Learning` `Generative AI`
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" />
+**Cloud Computing Trainee** | O7 Services IT Company
+*Focused on full-stack cloud deployments*
+* Engineered robust full-stack applications (SERN stack) integrated with scalable cloud databases.
+* Core contributor to the backend microservices and deployment pipeline for the Foodzie platform.
+* `Node.js` `React` `Supabase` `Cloud Engineering`
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ## 📜 Certifications
 
 <div align="center">
   
   <a href="https://lnkd.in/p/dScpx-is"><img src="https://img.shields.io/badge/O7_Services-Cloud_Computing-232F3E?style=for-the-badge&logo=cloud&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/O7_Services-AI,_ML_%26_Gen_AI-0072C6?style=for-the-badge&logo=robot&logoColor=white" />
+  <a href="https://www.linkedin.com/in/jaspreet-bhatia-ai/details/certifications/"><img src="https://img.shields.io/badge/O7_Services-Python,_Data_Science,_AI_%26_ML-0072C6?style=for-the-badge&logo=python&logoColor=white" /></a>
   
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ## 🎯 Coding Profiles
 
@@ -142,7 +147,7 @@ For me, technology isn’t just about writing code—it’s about finding the mo
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ## 📈 GitHub Analytics
 
@@ -153,15 +158,17 @@ For me, technology isn’t just about writing code—it’s about finding the mo
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Jaspreet-Bhatia-AI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c77dff&include_all_commits=true&count_private=true" height="192px" />
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-## 🏆 GitHub Trophies
+## 🗺️ Contribution Heat Map
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jaspreet-Bhatia-AI&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&title=Stars,Commits,Followers,Repositories,PullRequest,Issues" />
+  <img src="https://ghchart.rshah.org/7b2cbf/Jaspreet-Bhatia-AI" alt="GitHub Contribution Heat Map" width="100%" />
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ## 🔥 Contribution Activity
 
@@ -169,7 +176,13 @@ For me, technology isn’t just about writing code—it’s about finding the mo
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaspreet-Bhatia-AI&bg_color=0d1117&color=c77dff&line=9d4edd&point=7b2cbf&area=true&hide_border=true" width="100%" />
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" />
+<br />
+
+### 🔝 Top Contributed External Repositories
+- 🔧 [**6weeks_Jaspreet_SERN_backend**](https://github.com/KaranManhas22/6weeks_Jaspreet_SERN_backend) - Foodzie Backend Architecture
+- 🔧 [**6weeks_Jaspreet_SERN**](https://github.com/KaranManhas22/6weeks_Jaspreet_SERN) - Foodzie Frontend UI
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ## 🐍 Contribution Snake
 
@@ -177,7 +190,7 @@ For me, technology isn’t just about writing code—it’s about finding the mo
   <img src="https://raw.githubusercontent.com/Jaspreet-Bhatia-AI/Jaspreet-Bhatia-AI/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" width="100%" />
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ## ⚡ Current Focus
 
@@ -197,7 +210,7 @@ Open To:
   - Full-time Engineering Roles
 ```
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ## 📬 Connect
 
