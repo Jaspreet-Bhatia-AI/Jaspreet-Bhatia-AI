@@ -185,19 +185,7 @@ For me, technology isn’t just about writing code—it’s about finding the mo
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-## 🗺️ Contribution Heat Map
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/7b2cbf/Jaspreet-Bhatia-AI" alt="GitHub Contribution Heat Map" width="100%" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
 ## 🔥 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaspreet-Bhatia-AI&bg_color=0d1117&color=c77dff&line=9d4edd&point=7b2cbf&area=true&hide_border=true" width="100%" />
-</div>
 
 <br />
 
