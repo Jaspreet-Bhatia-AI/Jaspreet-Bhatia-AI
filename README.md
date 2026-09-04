@@ -118,10 +118,11 @@ For me, technology isn’t just about writing code—it’s about finding the mo
 * `Python` `Data Science` `Machine Learning` `Generative AI`
 
 **Cloud Computing Trainee** | O7 Services IT Company
-*Focused on full-stack cloud deployments*
-* Engineered robust full-stack applications (SERN stack) integrated with scalable cloud databases.
-* Core contributor to the backend microservices and deployment pipeline for the Foodzie platform.
-* `Node.js` `React` `Supabase` `Cloud Engineering`
+*Focused on infrastructure, web servers, and secure cloud deployments*
+* Mastered end-to-end cloud deployment pipelines for diverse application tech stacks.
+* Configured and secured production Linux environments using NGINX, Apache2 (`sites-enabled`), SSL certificates, and robust firewall policies.
+* Independently deployed the scalable Foodzie platform as a comprehensive cloud infrastructure and traffic management case study.
+* `Linux` `NGINX` `Apache2` `SSL/TLS` `Cloud Engineering`
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
