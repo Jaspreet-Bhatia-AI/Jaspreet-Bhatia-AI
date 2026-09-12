@@ -30,6 +30,7 @@
 For me, technology isn’t just about writing code—it’s about finding the most effective ways to solve real-world problems. My journey into Data Science and AI began with a curiosity about how raw data can be transformed into intelligent, actionable decisions. Currently pursuing my **B.Tech in CSE (AI/ML) at SBBSU**, I have adopted a strong "build-first" mindset, bringing theoretical concepts to life through robust, scalable applications.
 
 - 🧠 **AI/ML Expertise:** Architecting autonomous machine learning models, developing agentic AI frameworks, Deep Learning, and Generative AI.
+- 🏢 **Founder of JB AI:** Architecting and scaling intelligent, full-stack applications like Curator under my personal studio brand.
 - ⚙️ **Cloud Engineering:** Developing holistic backend solutions, engineering scalable architectures on AWS and Azure.
 - 💻 **Full Stack Development:** Proficient in Python, C++, and Java with a deep focus on crafting end-to-end data-driven web applications.
 - 🚀 **Mindset:** Treating every project as an opportunity to push technical boundaries.
@@ -132,15 +133,15 @@ For me, technology isn’t just about writing code—it’s about finding the mo
 </details>
 
 <details>
-  <summary><b>4. AI Smart Downloader & Curator</b></summary>
+  <summary><b>4. Curator by JB AI</b></summary>
   <br />
-  An autonomous AI-powered curriculum generator and intelligent media extraction tool.
+  An autonomous AI-powered media curator, roadmap generator, and intelligent extraction tool.
 
   | Stack | Scale | Performance | Security | Impact | Repository |
   | :--- | :--- | :--- | :--- | :--- | :--- |
-  | Python, Streamlit, Groq LLM, Node.js | Automated | Anti-Bot Bypass | Local Execution | Curated Learning | [View Source](https://github.com/Jaspreet-Bhatia-AI/youtube-downloader) |
+  | React, FastAPI, Groq LLM, Node.js | Automated | Anti-Bot Bypass | Rate Limited | Curated Media | [View Source](https://github.com/Jaspreet-Bhatia-AI/curator-ai) |
   
-  *Architected an agentic AI system that dynamically generates structured educational roadmaps and automated playlists based on natural language queries. Engineered a robust backend utilizing localized Node.js environments and yt-dlp to successfully bypass complex JavaScript anti-bot algorithms for seamless, secure media extraction.*
+  *Architected an agentic AI system under the **JB AI** brand that dynamically generates structured educational roadmaps and curated music playlists based on natural language queries, augmented by real-time internet search (RAG). Engineered a robust Python FastAPI backend and a sleek React frontend with Framer Motion 3D graphics, utilizing localized Node.js environments and FFmpeg to successfully bypass complex anti-bot algorithms for seamless media extraction.*
 </details>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
